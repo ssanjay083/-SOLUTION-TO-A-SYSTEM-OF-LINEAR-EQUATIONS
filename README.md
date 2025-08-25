@@ -38,7 +38,7 @@ print(solution)
 
 
 ## Output:
-<img width="390" height="231" alt="image" src="https://github.com/user-attachments/assets/ed1d1a39-6757-4eeb-a959-a35011905aec" />
+<img width="1351" height="572" alt="image" src="https://github.com/user-attachments/assets/3be2737f-9e67-46ac-aa3e-cbecf4b3d26c" />
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
